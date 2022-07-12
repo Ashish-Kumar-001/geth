@@ -1,7 +1,7 @@
 # geth commands
 
-To run a full node use the
-geth --syncmode full
+To run a full node use
+	--> geth --syncmode full
 
-To run a light node use the
-geth --syncmode light
+To run a light node use
+	--> geth --syncmode light
